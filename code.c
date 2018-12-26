@@ -11,6 +11,7 @@
 // IMPORTANT TO KNOW: File paths for destination and source file must be given like "/home/ozgur/Desktop/". 
 // Please mind this. The path must be end with "/"
 
+
 #define FILE_SIZE 30001 // Size with byte
 #define MAX_FILE_SIZE 1024 * 100 // Max file size is 100 MB
 sem_t mutex; // Mutex is using for printing thread percentage
